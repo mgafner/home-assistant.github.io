@@ -34,5 +34,7 @@ Configuration variables:
 
 - **from** (*Required*): The ID of the station of the start station.
 - **to** (*Required*): The ID of the station of the end station.
+- **name** (*Optional*): Name to use in the frontend.
+
 
 The public timetables are coming from [Swiss public transport](http://transport.opendata.ch).
